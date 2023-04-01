@@ -2,7 +2,7 @@
     <v-app-bar color="primary">
         <v-container>
             <h1>
-                Boilerplate Vue3
+                Cryptocurrencies in real time
             </h1>
         </v-container>
     </v-app-bar>
